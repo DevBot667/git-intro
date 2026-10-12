@@ -1,4 +1,2 @@
-Change from feature branch
-Change from main
-
--> resolved !
+Message from main branch
+Message from feature branch
